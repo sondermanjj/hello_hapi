@@ -24,7 +24,7 @@ Run tests with `npm test`
 
 This will run tests and a linter using the default linting settings.
 
-Run tests and code coverage with `npm run coverage`.
+Run tests and code coverage with `npm run coverage`. Please work.
 
 ## License
 
