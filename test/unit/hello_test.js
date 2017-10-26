@@ -11,8 +11,6 @@ lab.experiment('test greetings', () => {
         Code.expect(Hello('Homer')).to.equal('Hello, Homer!');
         Code.expect(Hello('Homer')).to.equal('Hello, Homer!');
         Code.expect(Hello('Homer')).to.equal('Hello, Homer!');
-        Code.expect(Hello('Homer')).to.equal('Hello, Homer!');
-        Code.expect(Hello('Homer')).to.equal('Hello, Homer!');
         done();
     });
 
